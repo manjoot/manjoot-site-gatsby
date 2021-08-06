@@ -1,39 +1,48 @@
-# Gatsby Starter Tailwind CSS
+<p align="center">
+  <a href="https://wwww.manjoot.com">
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  MANJOOT.com
+</h1>
 
-Start your project quickly with this Tailwind CSS starter. This starter provides you with the basics to get up and running quickly with [Tailwind CSS](https://tailwindcss.com/).
+This is the second iteration of my personal website, built using [Gatsby.js](https://gatsbyjs.com/).
 
-[Tailwind CSS](https://tailwindcss.com/) is a utility-first CSS framework for rapidly building custom designs.
+This project is **still ongoing**, If you find any issues or areas of improvements, do let me know by contacting me!
 
-This starter uses Tailwind CSS v1.4.1 and therefore includes built-in PurgeCSS support through Tailwind itself. The starter sets you up with the following:
+## Prerequisites
 
-- `src/css/tailwind.css` where Tailwind's `base`, `components` and `utilities` directives are injected
-- `tailwind.config.js` where you can customise the [Tailwind configuration](https://tailwindcss.com/docs/configuration/)
-- `prettier`
-- `gatsby-plugin-postcss` including `autoprefixer`
-- `gatsby-plugin-react-helmet`
-- `gatsby-plugin-manifest`
+You will need [Node.js](https://nodejs.org/) version 8.0 or greater installed on your system.
 
-## Demo site
+## Setup
 
-The demo site can be found [here](https://gatsby-starter-tailwind-css.netlify.app/)
+Firstly begin by opening the terminal in the application's directory, and install all the required dependencies using:
 
-## Get started
-
-1. **Create your Gatsby site**
-
-Use the Gatsby CLI (`npm install -g gatsby-cli` if you don't have it already) to create your Gatsby site with Gatsby Starter Tailwind CSS:
-
-```bash
-gatsby new my-project-name https://github.com/melanienolan/gatsby-starter-tailwind-css
+```
+npm install
 ```
 
-2. **Start developing**
+Then, start the app with:
 
-Navigate to your project folder and start the development server:
-
-```bash
-cd my-project-name
+```
 gatsby develop
 ```
 
-Now you'll be all set to go ahead and create your Gatsby site with Tailwind CSS!
+The app should now be up and running at [http://localhost:8000](http://localhost:8000/) 🚀
+
+## Used Dependencies
+
+- GatsbyJs
+- Tailwind CSS
+
+## Contact
+
+Manjoot - [Get in touch!](mailto:manjoot@hotmail.com)
+
+## License
+
+[![License](https://camo.githubusercontent.com/e754645b75702ffcc623fb15d15bd88c0d988ee8a304791fc009ce45268faed6/687474703a2f2f696d672e736869656c64732e696f2f3a6c6963656e73652d6d69742d626c75652e7376673f7374796c653d666c61742d737175617265)](http://badges.mit-license.org/)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2021 ©
