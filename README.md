@@ -4,7 +4,7 @@
 
 This is the second iteration of my personal website that **isnt live yet**, and is built using [Gatsby.js](https://gatsbyjs.com/).
 
-This project is **still in progress**, If notice any areas of improvements in this repo, do let me know by contacting me!
+This project is **still in progress**, If you notice any areas of improvements in this repo, do let me know by contacting me!
 
 ## Prerequisites
 
