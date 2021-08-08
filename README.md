@@ -1,5 +1,5 @@
 <h1 align="center">
-  Manjoot.com
+  Manjoot.com 2.0
 </h1>
 
 This is the second iteration of my personal website that **isnt live yet**, and is built using [Gatsby.js](https://gatsbyjs.com/).
