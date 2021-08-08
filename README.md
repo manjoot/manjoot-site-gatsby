@@ -1,15 +1,10 @@
-<p align="center">
-  <a href="https://wwww.manjoot.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
 <h1 align="center">
-  MANJOOT.com
+  Manjoot.com
 </h1>
 
 This is the second iteration of my personal website, built using [Gatsby.js](https://gatsbyjs.com/).
 
-This project is **still ongoing**, If you find any issues or areas of improvements, do let me know by contacting me!
+This project is **still in progress**, If notice any areas of improvements in this repo, do let me know by contacting me!
 
 ## Prerequisites
 
